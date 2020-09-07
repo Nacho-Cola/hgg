@@ -1,2 +1,2 @@
-# fokin-weader
+# fokin-weather
 retry my expo
